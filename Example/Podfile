@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WLJSONHighlightingDemo_Example' do
+  pod 'WLJSONHighlightingDemo', :path => '../'
+
+  target 'WLJSONHighlightingDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
