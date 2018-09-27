@@ -1,0 +1,16 @@
+PODS:
+  - WLJSONHighlightingDemo (0.1.0)
+
+DEPENDENCIES:
+  - WLJSONHighlightingDemo (from `../`)
+
+EXTERNAL SOURCES:
+  WLJSONHighlightingDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WLJSONHighlightingDemo: 694ba9979ba72b456f24545111f84b3f51a1edfc
+
+PODFILE CHECKSUM: 1b2134e4302161926b91c92b81b08033ec0d67c0
+
+COCOAPODS: 1.5.0
