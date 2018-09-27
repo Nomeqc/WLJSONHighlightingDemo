@@ -9,17 +9,6 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
-## Installation
-
-WLJSONHighlightingDemo is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'WLJSONHighlightingDemo'
-```
-
 ## Author
 
 nomeqc@gmail.com, xie5405@163.com
