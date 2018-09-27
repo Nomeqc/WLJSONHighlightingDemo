@@ -9,6 +9,10 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+## Screenshot
+
+![image](https://github.com/Nomeqc/WLJSONHighlightingDemo/blob/master/Screenshot/IMG_1383.png)
+
 ## Author
 
 nomeqc@gmail.com, xie5405@163.com
